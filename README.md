@@ -1,3 +1,3 @@
 ## nauka
-Repozytorium nauka zawiera programy, 
-które tworzyłem podczas nauki programowania.
+Nauka programowania. 
+Pierwsze mikro-programy.
